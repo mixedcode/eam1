@@ -2,7 +2,7 @@
 	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
 	<App id="idAppControl">
 		<pages>
-			<Page title="feature-fcriss">
+			<Page title="feature-f5">
 				<content></content>
 			</Page>
 		</pages>
